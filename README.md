@@ -1,1 +1,1 @@
-This a sample SQL file
+Hi, I'm Nishtha! 👋
